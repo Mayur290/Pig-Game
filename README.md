@@ -1,4 +1,4 @@
-# Pig-Game
+# Pig-Game [play game](https://mayur290.github.io/Pig-Game/)
 
 ## Language used
 * html
