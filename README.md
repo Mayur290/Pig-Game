@@ -25,4 +25,4 @@ any of the dice. After that, it's the next player's turn.
 * The first player to reach Winner score entered by user on GLOBAL
 score wins the game.
             
-![GIF](https://raw.githubusercontent.com/Mayur290/Pig-Game/master/media/video.gif)
+<img align="center" src="https://raw.githubusercontent.com/Mayur290/Pig-Game/master/media/video.gif"/>
